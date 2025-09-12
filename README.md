@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a 26-year-old security analyst with a strong background in software development. My journey began with coding, and over time, I specialized in cybersecurity — a field where my passion for deep technical challenges truly thrives.
+I'm a 27-year-old security analyst with a strong background in software development. My journey began with coding, and over time, I specialized in cybersecurity — a field where my passion for deep technical challenges truly thrives.
 
 What excites me most is the intersection of software and security:  
 ➡️ reverse engineering complex systems,  
